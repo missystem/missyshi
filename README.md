@@ -20,7 +20,7 @@ CIS | MATH | ECON
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/missystem/missy.github.io/blob/master/screenshot.png" />
+  <img src="https://github.com/missystem/missy.github.com/blob/master/screenshot.png" />
 </p>
 
 # Contact
