@@ -1,16 +1,16 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Yuhan Shi
+description: Yuhan's Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
+username: Yuhan Shi
+user_description: I'm currently study in Computer Science, Mathematics, and Economics at University of Oregon. Visit my Github page here <a href="https://github.com/missystem/" target="_blank">https://github.com/missystem/</a>
+user_title: U of O - CIS x MATH x ECON student
+email: misy.shi@gmail.com
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  missystem
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
