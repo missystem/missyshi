@@ -25,6 +25,6 @@ CIS | MATH | ECON
 
 # Contact
 
-- Reach out to me directly at <YuhanS@protonmail.com>
+- Reach out to me directly at <yuhanspace@gmail.com>
 
 
